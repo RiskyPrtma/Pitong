@@ -76,10 +76,8 @@ print(b, "!=", 4, "=", hasil)
 
 # ------------------------
 
-# IS 
-# untuk Mengecek apakah dua variabel menunjuk ke objek yang sama di memori.
 
-# Mengecek apakah identitas dari kedua hal benar benar sama (yang sama bukan hanya nilainya, tapi benar benar hal yang sama persis)
+
 
 
 
